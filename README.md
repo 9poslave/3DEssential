@@ -1,1 +1,2 @@
-# 3DEssential
+# 3DEssential + ProgrammingEssentials
+Рожко Ярослав
